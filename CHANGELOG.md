@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [2.0.0] - 2024-01-15
+## [2.0.0] - 2025-12-15
 
 ### Added
 - Complete RTOS support for ESP32
@@ -26,9 +26,10 @@ All notable changes to this project will be documented in this file.
 - RTOS task cleanup
 - Event queue overflow protection
 
-## [1.0.0] - 2023-01-01
+## [1.0.0] - 2025-12-10
 
 ### Initial Release
 - Basic TTP229 support
 - Simple key reading
+
 - Basic examples
